@@ -1,0 +1,66 @@
+pdf-compress
+Copyright (C) 2026 Alex Lu
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+================================================================================
+THIRD-PARTY NOTICES
+================================================================================
+
+This software depends on and is distributed with the following third-party
+component. Its license requires that the notice below be preserved.
+
+--------------------------------------------------------------------------------
+PyMuPDF
+--------------------------------------------------------------------------------
+Copyright (C) 2004-2026 Artifex Software, Inc.
+https://github.com/pymupdf/PyMuPDF
+
+Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License
+
+This project uses PyMuPDF under the terms of the GNU Affero General Public
+License version 3 (AGPL-3.0). The full text of that license is included in
+the LICENSE file of this repository.
+
+A commercial license for PyMuPDF, which removes the obligations of the
+AGPL-3.0, is available from Artifex Software, Inc.:
+https://artifex.com/licensing/
+
+Because pdf-compress links against and depends on PyMuPDF (AGPL-3.0), the
+combined work is distributed under AGPL-3.0. If you redistribute this
+software, you must:
+
+  1. Provide the complete corresponding source code;
+  2. Preserve this NOTICE and the LICENSE file;
+  3. License the whole work under AGPL-3.0 without additional restrictions;
+  4. If you operate it as a network service, offer the source code to the
+     users of that service (AGPL-3.0 Section 13).
+
+--------------------------------------------------------------------------------
+MuPDF
+--------------------------------------------------------------------------------
+Copyright (C) 2004-2026 Artifex Software, Inc.
+https://mupdf.com/
+
+MuPDF is the rendering and document engine underlying PyMuPDF, distributed
+under AGPL-3.0 or a commercial license from Artifex.
+
+--------------------------------------------------------------------------------
+Python Standard Library
+--------------------------------------------------------------------------------
+Copyright (C) Python Software Foundation.
+Licensed under the Python Software Foundation License (PSF-2.0).
+https://docs.python.org/3/license.html
+
+No third-party components other than those listed above are used.

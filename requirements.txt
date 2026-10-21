@@ -1,0 +1,4 @@
+# pdf-compress 唯一依赖
+# PyMuPDF 采用 AGPL-3.0 或 Artifex 商业许可（双授权）
+# 详见 NOTICE
+pymupdf>=1.24.0

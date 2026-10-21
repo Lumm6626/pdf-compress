@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 测试与临时产物
+*_compressed.pdf
+*.pdf.tmp
+*.pdf.probe
+test_output/
+out/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地凭据（万一将来加了需要密钥的功能）
+.env
+.env.*
+*.key
+*.pem
